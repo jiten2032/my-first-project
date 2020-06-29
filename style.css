@@ -289,17 +289,230 @@ margin-top: 45px;
 position: absolute;
 
 
-
 }
 #buttton1{
     background-color: rgb(16,116,231);
-    color: #fff;
+ 
 border-radius: 6px;
 font-size: 16px;
-font-family:  Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+
 border: 1px solid #1074e7;
 text-align: center;
-height: 30px;
-width: 190px;
+height: 70px;
+width: 210px;
+margin-top: 45px;
+margin-left:890px ;
+
+
+}
+.trygithub a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family:  Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    color: #fff;
+
+}
+.companylogo{
+   
+ 
+    margin-top: 124px;
+    text-align: center;
+
+}
+.more{
+
+    font-size: 20px;
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+color: black;
+
+
+}
+
+.logo{
+width: 70%;
+margin:50px auto;
+display: grid;
+grid-template-columns: repeat(6,1fr) ;
+grid-template-rows:100px 100px  ;
+}
+
+#airbnb{
+    height: 50px;
+    width: 50px;
+}
+#sap{
+    height: 50px;
+    width: 50px;
+
+}
+#ibm{
+    height: 50px;
+    width: 50px;
+}
+#google{
+    height: 50px;
+    width: 50px;
+}
+#paypal{
+    height: 50px;
+    width: 50px;
+}
+#bloomberg{
+    height: 50px;
+    width: 50px;
+}
+#spotify {
+    height: 50px;
+    width: 50px;
+}
+#twitter{
+    height: 50px;
+    width: 50px;
+}
+#facebbok{
+    height: 50px;
+    width: 50px;
+}
+#node{
+    height: 50px;
+    width: 50px;
+}
+#nasa{
+    height: 50px;
+    width: 50px;
+}
+#wallmart{
+    height: 50px;
+    width: 50px;
+
+}
+.body3{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 150px;
+}
+.start{
+font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important;
+font-size: 16px;
+color:#586069;
+
+}
+.abetter{
+    font-size: 48px;
+    font-family: inter,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.start.{
+    font-size: 24px;
+    font-family: inter,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+width: 600px;
+color: #586069;
+
+
+}
+#buttton2{
+
+    color: #1074e7;
+    background-color: hsla(0,0%,100%,0);
+    border-color: rgba(16,116,231,.5);
+padding: 20px 32px;
+border-radius: 6px;
+text-decoration: none;
+text-transform: capitalize;
+
+}
+
+.button a{
+    text-decoration: none;
+    font-size: 16px;
+
+}
+.body4{
+    display: flex;
+    position: absolute;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+#team{
+height: 450px;
+width: 400px;
+margin-left: 300px;
+
+}
+.logo4{
+    position: absolute;
+}
+.pages{
+    position: absolute;
+margin-left: 850px;
+width: 400px;
+text-transform: capitalize;
+
+
+}
+.pages a{
+    text-decoration: none;
+}
+.pages h3{
+    font-size: 20px;
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;;
+    color: rgb(36,41,46);
+}
+.pages p{
+font-size: 14px;
+color: rgb(36,41,46);
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+.starting{
+    border: 1px solid transparent;
+    transition: box-shadow .3s,border-color .3s;
+    border-radius: 6px;
+    height: auto;
+    width:auto;
+    
+
+}
+
+
+
+.write{
+    
+}
+.collaboration{
+   
+
+}
+#code{
+    text-decoration: ;
+    color:blue;
+}
+
+
+
+
+.manage{
+    
+}
+.takea{
+    
+}
+#project{
+
+    color:blue;
+
+
+}
+.find{
+
+}
+.browse{
+  
+}
+#integration{
+    color:blue;
 
 }
