@@ -435,9 +435,10 @@ text-transform: capitalize;
 
 
 #team{
-height: 450px;
-width: 400px;
+height: 550px;
+width: 450px;
 margin-left: 300px;
+margin-top: -50px;
 
 }
 .logo4{
@@ -448,11 +449,13 @@ margin-left: 300px;
 margin-left: 850px;
 width: 400px;
 text-transform: capitalize;
+margin-top: -50px;
 
 
 }
 .pages a{
     text-decoration: none;
+    color: rgb(36,41,46);
 }
 .pages h3{
     font-size: 20px;
@@ -469,50 +472,438 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubun
 
 .starting{
     border: 1px solid transparent;
-    transition: box-shadow .3s,border-color .3s;
     border-radius: 6px;
-    height: auto;
-    width:auto;
-    
+    box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+    margin: 20px;
 
+
+}
+.middle{
+
+    box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+    border: 1px solid transparent;
+    margin: 20px;
+}
+.ending{
+
+    box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+    border: 1px solid transparent;
+    margin: 20px;
 }
 
 
 
-.write{
-    
-}
-.collaboration{
+
    
 
-}
+
 #code{
-    text-decoration: ;
+
     color:blue;
 }
 
 
 
 
-.manage{
-    
-}
-.takea{
-    
-}
 #project{
 
-    color:blue;
+    color:blue;  
 
 
 }
-.find{
 
-}
-.browse{
-  
-}
+
 #integration{
     color:blue;
+
+}
+
+.body5{
+margin-top: 700px;
+text-align: center;
+text-transform: capitalize;
+}
+.seehoww{
+font-size: 20px;
+font-size: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+
+
+}
+
+
+
+
+.box2{
+margin: 30px auto;
+width: 70%;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-gap: 30px;
+
+
+
+
+}
+.box2 a{
+text-decoration: none;
+font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+color: rgb(36,41,46);
+
+
+
+
+}
+
+
+
+#pic1{
+
+height: 200px;
+width: 200px;
+
+}
+#pic2{
+
+    height: 200px;
+    width: 200px;
+    
+    }
+    #pic3{
+
+        height: 200px;
+        width: 200px;
+        
+        }
+        #pic4{
+
+            height: 200px;
+            width: 200px;
+            }
+            .mgm{
+
+                box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+padding-top: 16px;
+border-radius: 6px;
+background-color: #fff;
+
+
+            }
+            .class{
+
+padding: 10px;
+
+
+            }
+
+            .class1{
+
+                padding: 10px;
+                
+                
+                            }
+.readmore1{
+
+margin: 25px;
+
+
+}
+
+.readmore1 a{
+
+    color: blue;
+}
+
+
+.nationwide{
+
+    box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+    padding-top: 16px;
+    border-radius: 6px;
+    background-color: #fff;
+
+}
+.class2{
+
+    padding: 10px;
+    
+    
+                }
+    
+                .class3{
+    
+                    padding: 10px;
+                    
+                    
+                                }
+    .readmore2{
+    
+    margin: 25px;
+    
+    
+    }
+    
+    .readmore2 a{
+    
+        color: blue;
+    }
+    
+.sap{
+
+    box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+    padding-top: 16px;
+    border-radius: 6px;
+    background-color: #fff;  
+
+
+
+}
+.class4{
+
+    padding: 10px;
+    
+    
+                }
+    
+                .class5{
+    
+                    padding: 10px;
+                    
+                    
+                                }
+    .readmore3{
+    
+    margin: 25px;
+    
+    
+    }
+    
+    .readmore3 a{
+    
+        color: blue;
+    }
+    
+
+.spotifye{
+
+    box-shadow: 0 2px 4px rgba(21, 54, 87, 0.15);
+    padding-top: 16px;
+    border-radius: 6px;
+    background-color: #fff;  
+
+
+}
+.class6{
+
+    padding: 10px;
+    
+    
+                }
+    
+                .class7{
+    
+                    padding: 10px;
+                    
+                    
+                                }
+    .readmore4{
+    
+    margin: 25px;
+    
+    
+    }
+    
+    .readmore4 a{
+    
+        color: blue;
+    }
+
+    .body6{
+        text-align: center;
+        text-transform: capitalize;
+        margin-top: 150px;
+    }
+    .security{
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important;
+    font-size: 16px;
+    color:#586069;
+    
+    }
+    .yourbusiness{
+        font-size: 48px;
+        font-family: inter,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    margin-top: auto;
+    
+    }
+    .fromflexibla{
+        font-size: 20px;
+        font-family: inter,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    color: #586069;
+    width: 550px;
+    margin-left: 500px;
+    
+    }
+    #button4{
+    
+        color: rgb(16,116,231);
+
+               height: 70px;
+        width: 400px;
+        border-radius: 10px;
+  border: 1px solid ;
+ 
+    
+    }
+    
+    .button3 a{
+        text-decoration: none;
+        font-size: 16px;
+        text-transform: capitalize;
+        padding: 50px;
+       
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+.button3{
+
+
+    margin-top: 50px;
+    
+}
+.body7{
+display: flex;
+margin-top: 100px;
+position: relative;
+
+}
+.seven{
+    position: absolute;
+margin-left: 230px;
+
+}
+.segement1{
+width: 500px;
+text-transform: capitalize;
+
+}
+.segement2{
+    text-transform: capitalize;
+    width: 480px;
+
+}
+.seven1{
+    position: absolute;
+
+margin-left: 780px;
+}
+.seven h1{
+
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+color: rgb(36,41,46);
+font-size: 20px;
+}
+.seven p{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 14px;
+color: rgb(88,96,105);
+}
+.body71{
+display: flex;
+box-shadow: 2px 2px 2px 4px rgba(21, 54, 87, 0.15); 
+/* border: 1px solid; */
+margin-top: 400px;
+border-radius: 6px;
+justify-content: center;
+text-transform: capitalize;
+box-sizing: border-box;
+position: relative;
+width: 800px;
+margin-left: 400px;
+
+
+}
+
+
+
+.content11{
+  
+    width: 450px;
+}
+.content11 a{
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #0366d6;
+font-size: 16px;
+text-decoration-style: solid;
+
+}
+.content11 h3{
+
+    font-size: 19px;
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    color: rgb(88,96,105);
+
+
+}
+.securely{
+
+    font-family:  -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+font-size: 14px;
+color: rgb(88,96,105);
+
+}
+.body8{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 150px;
+}
+.integrt{
+font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace!important;
+font-size: 16px;
+color:#586069;
+
+}
+.buildon{
+    font-size: 48px;
+    font-family: inter,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+margin-top: auto;
+
+}
+.customize{
+    font-size: 20px;
+    font-family: inter,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+color: #586069;
+width: 600px;
+margin-left: 500px;
+
+}
+#button6{
+
+    color: rgb(16,116,231);
+
+           height: 70px;
+    width: 400px;
+    border-radius: 10px;
+border: 1px solid ;
+
+
+}
+
+.button5 a{
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 50px;
+   
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.button5{
+
+
+margin-top: 50px;
 
 }
